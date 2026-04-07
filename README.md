@@ -4,7 +4,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-agrawal6/Hospital-Management-System.git
+  git clone https://github.com/technoaryan02/hospital-management-system.git
 ```
 
 Go to the project directory
@@ -69,13 +69,6 @@ Password - masai
 - Generating reports 
 - Overall control of hospital
 
-## 🔗 Links
-
-Dashboard - https://hm-system.netlify.app/
-
-User Side - https://hms-user-side.netlify.app/
-
-Server - https://github.com/piyush-agrawal6/HMS-Backend
 
 ## Screenshots
 
@@ -107,13 +100,4 @@ Server - https://github.com/piyush-agrawal6/HMS-Backend
 
 ![31 01 2023_21 15 44_REC](https://user-images.githubusercontent.com/100460788/215808752-4ebfb582-1db0-45e4-ac53-a87a5f1b75ea.png)
 
-## Presentation
-
-Link - <a href="https://drive.google.com/file/d/1xwcSsjdl6QHnJ-JXl11moBAwSqSQFRjh/view?usp=sharing" alt="presentation">Drive</a>
-
-## Team Members / Contributors
-
-- [@Piyush Agrawal](https://github.com/piyush-agrawal6)
-- [@Rajendra Patel](https://github.com/centauricoder01)
-- [@Salman Ajani](https://github.com/SalmanAjani)
 
